@@ -3,11 +3,21 @@ body {
 }
 
 #content {
-	border:	1px solid black;
 	width: 45em;
 	padding: 5px;
 }
 
 #top {
 	text-align: center;
+}
+
+#main {
+}
+
+#footer {
+
+}
+
+#django-logo {
+	float: right;
 }
