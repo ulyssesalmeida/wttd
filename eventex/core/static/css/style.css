@@ -21,3 +21,7 @@ body {
 #django-logo {
 	float: right;
 }
+
+.errorlist {
+	color: red;
+}
